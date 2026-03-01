@@ -1,29 +1,57 @@
-# 👋 Hi, I'm Yash Maggu
+<h1 align="center">Hi 👋, I'm Yash Maggu</h1>
 
-🎓 Electronics & Communication Engineering Student  
-💡 Passionate about AI, Embedded Systems & Privacy-Focused Technologies  
-🚀 Building real-world projects combining Hardware + Machine Learning  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Embedded+AI+Developer;RTL+%7C+Verilog+Engineer;Privacy-Focused+Systems+Builder;Raspberry+Pi+Enthusiast" />
+</p>
+
+---
+
+## 🕒 Live Digital Time (India - IST)
+
+> 🌍 Based in Thathgarh, Punjab  
+> ⏳ Real-time clock shown above  
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Privacy-Preserving AI Systems
-- 🧠 Interested in Edge AI & Embedded Intelligence
-- ⚡ Strong foundation in Digital Design & RTL (Verilog)
-- 📈 Actively improving problem-solving & system design skills
+- 🎓 ECE Student  
+- 🔭 Currently building Privacy-Preserving AI Systems  
+- 💡 Interested in Edge AI & Embedded Intelligence  
+- ⚡ Strong foundation in Digital Design & RTL  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashmaggu-NV&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashmaggu-NV&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmaggu-NV&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashmaggu-NV&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yashmaggu-NV&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yashmaggu-NV&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashmaggu-NV&theme=tokyo-night"/>
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashmaggu-NV&theme=tokyo-night)
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,verilog,matlab" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,github,tensorflow" />
+</p>
 
 ---
 
@@ -34,36 +62,22 @@
 
 - Fully Offline Hindi Speech Recognition  
 - Built for Raspberry Pi  
-- No Cloud Processing (Privacy Focused)  
+- No Cloud Data Sharing  
 - Optimized for Low-Resource Hardware  
 
 ---
 
 ### 🫀 ECG Classification using CNN  
-- Deep Learning Model using TensorFlow/Keras  
+- Deep Learning Model (TensorFlow/Keras)  
 - Biomedical Signal Processing  
-- High classification accuracy  
+- High Test Accuracy  
 
 ---
 
 ### 🔢 Verilog-Based Sine Calculator  
-- Synthesizable RTL Implementation  
+- Synthesizable RTL Design  
 - 16-bit Angle Input  
-- LUT-Based Architecture  
-- Hardware Efficient Design  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Python | C | Verilog | MATLAB  
-
-**Frameworks & Tools:**  
-TensorFlow | Keras | Raspberry Pi | Linux | Git  
-
-**Domains:**  
-Embedded Systems | AI | Digital Design | Edge Computing  
+- LUT-Based Hardware Optimization  
 
 ---
 
@@ -71,15 +85,16 @@ Embedded Systems | AI | Digital Design | Edge Computing
 
 - Embedded AI Systems  
 - Privacy-Preserving ML  
-- RTL & Hardware Optimization  
-- Real-Time Signal Processing  
+- RTL Optimization  
+- Edge Computing  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: Yash.maggu0189@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/yash-maggu-47050b21a
+- 📧 your-Yash.maggu0189@gmail.com
+- 💼 Add LinkedIn www.linkedin.com/in/yash-maggu-47050b21a
+
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+⭐ Always learning. Always building. Always improving.
