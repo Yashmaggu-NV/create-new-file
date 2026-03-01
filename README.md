@@ -1,28 +1,56 @@
-<h1 align="center">Hi 👋, I'm Yash Maggu</h1>
+<h1 align="center">Hey 👋 I'm Yash Maggu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Embedded+AI+Developer;RTL+%7C+Verilog+Engineer;Privacy-Focused+Systems+Builder;Raspberry+Pi+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&center=true&vCenter=true&width=800&lines=VLSI+%7C+Digital+System+Explorer;AI+%2B+Hardware+Enthusiast;RTL+Design+%7C+Verilog+Engineer;Exploring+AI+with+Digital+Systems;Doing+Serious+Engineering+With+Fun+%F0%9F%98%84" />
 </p>
-
----
-
-## 🕒 Live Digital Time (India - IST)
-
-> 🌍 Based in Thathgarh, Punjab  
-> ⏳ Real-time clock shown above  
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 ECE Student  
-- 🔭 Currently building Privacy-Preserving AI Systems  
-- 💡 Interested in Edge AI & Embedded Intelligence  
-- ⚡ Strong foundation in Digital Design & RTL  
+🎓 Electronics & Communication Engineering Student  
+
+⚡ Enthusiastic about **VLSI & Digital System Design**  
+🧠 Strong foundation in **Computer Organization & Architecture (COA)**  
+🔢 Exploring **AI integrated with Digital Systems using Verilog**  
+🛠 Using **Verilog + C/C++ + Python scripting** for system-level experimentation  
+🤖 Passionate about **Embedded AI on Edge Devices**  
+😄 I enjoy building serious systems while having fun with embedded projects!
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 What I'm Exploring
+
+- 🧩 AI acceleration concepts in digital hardware  
+- 🔧 RTL-based system building  
+- ⚙️ Hardware–Software co-design  
+- 🤖 Running AI models on Raspberry Pi  
+- 📜 Automation & scripting for hardware workflows  
+- 🚀 Optimizing performance & architecture efficiency  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### 🔧 Hardware & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,raspberrypi" />
+</p>
+
+- Verilog (RTL Design)
+- Digital Logic Design
+- Computer Architecture
+- Embedded Systems
+- Edge AI
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashmaggu-NV&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -33,68 +61,42 @@
   <img src="https://streak-stats.demolab.com/?user=Yashmaggu-NV&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashmaggu-NV&theme=tokyo-night"/>
-</p>
-
 ---
 
-## 🛠 Tech Stack
+## 🔢 Featured Work
 
-### Languages
+### 🔧 Verilog-Based Sine Calculator
+- Synthesizable RTL
+- LUT-based optimized design
+- Hardware-efficient architecture
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,verilog,matlab" />
-</p>
+### 🎙 Offline Privacy-Preserving Hindi Voice Assistant
+- Embedded AI on Raspberry Pi
+- Fully offline speech processing
+- Privacy-focused design
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,github,tensorflow" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 🎙 Offline Privacy-Preserving Hindi Voice Assistant  
-🔗 https://github.com/Yashmaggu-NV/Offline_Privacy_Preserving_Hindi_Voice_Assistant_on_Raspberry_Pi-main  
-
-- Fully Offline Hindi Speech Recognition  
-- Built for Raspberry Pi  
-- No Cloud Data Sharing  
-- Optimized for Low-Resource Hardware  
-
----
-
-### 🫀 ECG Classification using CNN  
-- Deep Learning Model (TensorFlow/Keras)  
-- Biomedical Signal Processing  
-- High Test Accuracy  
-
----
-
-### 🔢 Verilog-Based Sine Calculator  
-- Synthesizable RTL Design  
-- 16-bit Angle Input  
-- LUT-Based Hardware Optimization  
+### 🫀 ECG Classification using CNN
+- AI for biomedical signal processing
+- TensorFlow/Keras implementation
 
 ---
 
 ## 🎯 Current Focus
 
-- Embedded AI Systems  
-- Privacy-Preserving ML  
-- RTL Optimization  
-- Edge Computing  
+- 📌 Exploring AI + Digital Hardware Integration  
+- 📌 Advanced RTL & Microarchitecture  
+- 📌 Embedded AI Optimization  
+- 📌 Open-Source Hardware Contribution  
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 your-Yash.maggu0189@gmail.com
-- 💼 Add LinkedIn www.linkedin.com/in/yash-maggu-47050b21a
+  - 📧 your-Yash.maggu0189@gmail.com 
+- 💼 https://www.linkedin.com/in/yash-maggu-47050b21a/  
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⚡ VLSI by passion  
+🤖 AI with Digital Systems  
+🚀 Building optimized hardware-driven intelligence
