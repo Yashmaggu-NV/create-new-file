@@ -92,7 +92,7 @@
 
 ## 📫 Connect With Me
 
-  - 📧 your-Yash.maggu0189@gmail.com 
+  - 📧 Yash.maggu0189@gmail.com 
 - 💼 https://www.linkedin.com/in/yash-maggu-47050b21a/  
 
 ---
